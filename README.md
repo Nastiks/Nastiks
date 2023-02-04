@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" width=800px height=600px/>
   <div id="badges">
-  <a href="t.me/stacy_prog">
+  <a href="https://t.me/stacy_prog">
   <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
      </a>
 </div>
@@ -21,7 +21,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on Stepik and Udemy and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Nastya-blue?style=flat&logo=Telegram&logoColor=white)](t.me/stacy_prog)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Nastya-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/stacy_prog)
 
 ---
 
