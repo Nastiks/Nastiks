@@ -21,7 +21,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on Stepik and Udemy and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Nastya-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/stacy_prog)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Nastya-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/nastikeshka)
 
 ---
 
