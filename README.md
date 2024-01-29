@@ -18,7 +18,7 @@ I am a Junior Full Stack Developer <img src="https://media.giphy.com/media/WUlpl
 
 - :zap: In my free time, I solve problems on Stepik and Udemy and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Nastya-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/nastikeshka)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Nastya-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/whale_in_the_ocean)
 
 ---
 
